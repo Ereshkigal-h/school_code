@@ -4,4 +4,4 @@ def example_function(a_list):
         for j in range(3):
             for k in range(1, j):
                 print(i+j+k)
-#a
+#O(n)

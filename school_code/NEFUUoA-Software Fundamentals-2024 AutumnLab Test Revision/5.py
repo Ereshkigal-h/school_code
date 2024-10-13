@@ -5,4 +5,4 @@
         i *= 3
     return i
 
-#c
+#O(logn)
